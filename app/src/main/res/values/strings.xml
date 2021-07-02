@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="open">OPEN</string>
+    <string name="close">CLOSE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">
+        <pr>This app is a news app in which we have
+        <br>breaking news, we can save news and we can search for news</br>
+        <br>and share our news with friends and family.</br>
+    </pr>
+    </string>
+    <string name="how_to_use">
+        <pr>
+            We can use this app by scrolling through our news
+            <br>and if we want to read complete article just click on it,</br>
+            <br>we can click the share button to share the news and heart</br>
+            <br>button to save our news into saved news tab.</br>
+            <br>We can delete our news by swiping it either left or right</br>
+            <br>in our shared news tab and search for any news in search news tab.</br>
+        </pr>
+    </string>
+</resources>
